@@ -1,13 +1,8 @@
-# rb-patches (Fork)
+# The Beatles: Rock Band Custom Campaign
  
-Lightweight patches to vanilla RB games that add small quality-of-life improvements, with small changes made
+This patch seeks to incorporate customs and DLC songs into the campaign mode in The Beatles: Rock Band. Prospective features also include new menu music, new studio chatter, new photos, and new studio chatter.
 
 </br>
-
-## TBRB:
-
-- Add strum limit back to PS3 version
-- Add intro movie back
 
 | Xbox 360 | PlayStation 3 |
 | --- | ----------- |
