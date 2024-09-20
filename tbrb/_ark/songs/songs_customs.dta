@@ -29,7 +29,7 @@
 
    } 0})
    (song
-     (name songs/customs/babysinblack/babysinblack)
+     (name customs/babysinblack/babysinblack)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -97,7 +97,7 @@
 
    } 0})
    (song
-     (name songs/customs/everybodystrying/everybodystrying)
+     (name customs/everybodystrying/everybodystrying)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -443,7 +443,7 @@
 
    } 0})
    (song
-     (name songs/customs/everylittlething/everylittlething)
+     (name customs/everylittlething/everylittlething)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -498,7 +498,7 @@
    (song_id 9990074)
    (context 0)
    (song
-     (name songs/customs/honeydont/honeydont)
+     (name customs/honeydont/honeydont)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -551,7 +551,7 @@
    (song_id 9990102)
    (context {do {if {$world find shea} {{{load_objects char/john/song/cantbuymelove.milo} find song_cantbuymelove} set_name song_cantbuymelove {{find_obj {$p9director chars_dir} john} find body}}} 0})
    (song
-     (name songs/customs/idontwanttospoil/idontwanttospoil)
+     (name customs/idontwanttospoil/idontwanttospoil)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -857,7 +857,7 @@
 
    } 0})
    (song
-     (name songs/customs/illfollowthesun/illfollowthesun)
+     (name customs/illfollowthesun/illfollowthesun)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -941,7 +941,7 @@
 
    } 0})
    (song
-     (name songs/customs/imaloser/imaloser)
+     (name customs/imaloser/imaloser)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -1004,7 +1004,7 @@
 
    } 0})
    (song
-     (name songs/customs/kansascity/kansascity)
+     (name customs/kansascity/kansascity)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -1318,7 +1318,7 @@
 
    } 0})
    (song
-     (name songs/customs/mrmoonlight/mrmoonlight)
+     (name customs/mrmoonlight/mrmoonlight)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -1620,7 +1620,7 @@
 
    } 0})
    (song
-     (name songs/customs/noreply/noreply)
+     (name customs/noreply/noreply)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -1683,7 +1683,7 @@
    (song_id 6661078)
    (context 0)
    (song
-     (name songs/customs/rockandrolldream/rockandrolldream)
+     (name customs/rockandrolldream/rockandrolldream)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -1746,7 +1746,7 @@
 
    } 0})
    (song
-     (name songs/customs/rockandrollmusic/rockandrollmusic)
+     (name customs/rockandrollmusic/rockandrollmusic)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -1801,7 +1801,7 @@
    (song_id 9990038)
    (context 113)
    (song
-     (name songs/customs/acrosstheuniverse/acrosstheuniverse)
+     (name customs/acrosstheuniverse/acrosstheuniverse)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -1860,7 +1860,7 @@
    (song_id 9990105)
    (context 0)
    (song
-     (name songs/customs/actnaturally/actnaturally)
+     (name customs/actnaturally/actnaturally)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -1982,7 +1982,7 @@
 
    } 0})
    (song
-     (name songs/customs/dontpassmeby/dontpassmeby)
+     (name customs/dontpassmeby/dontpassmeby)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -2042,7 +2042,7 @@
    (song_id 9990013)
    (context 88)
    (song
-     (name songs/customs/allmyloving/allmyloving)
+     (name customs/allmyloving/allmyloving)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -2098,7 +2098,7 @@
    (song_id 9990025)
    (context 100)
    (song
-     (name songs/customs/andiloveher/andiloveher)
+     (name customs/andiloveher/andiloveher)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -2151,7 +2151,7 @@
    (song_id 9990004)
    (context 79)
    (song
-     (name songs/customs/annagotohim/annagotohim)
+     (name customs/annagotohim/annagotohim)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -2236,7 +2236,7 @@
       }
    )
    (song
-     (name songs/customs/babyrichman/babyrichman)
+     (name customs/babyrichman/babyrichman)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -2292,7 +2292,7 @@
    (song_id 9990052)
    (context 127)
    (song
-     (name songs/customs/blackbird/blackbird)
+     (name customs/blackbird/blackbird)
      (tracks
         ((drum (0 1))
          (guitar (2 3))
@@ -2405,7 +2405,7 @@
 
    } 141})
    (song
-     (name songs/customs/bluejayway/bluejayway)
+     (name customs/bluejayway/bluejayway)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -2466,7 +2466,7 @@
    (song_id 9990059)
    (context 134)
    (song
-     (name songs/customs/christmastime/christmastime)
+     (name customs/christmastime/christmastime)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -2574,7 +2574,7 @@
 
    } 0})
    (song
-     (name songs/customs/circles/circles)
+     (name customs/circles/circles)
      (tracks
         ((bass (0 1))
          (guitar (2 3))
@@ -2629,7 +2629,7 @@
    (song_id 9990040)
    (context 115)
    (song
-     (name songs/customs/doctorrobert/doctorrobert)
+     (name customs/doctorrobert/doctorrobert)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -2682,7 +2682,7 @@
    (song_id 9990014)
    (context 89)
    (song
-     (name songs/customs/eleanorrigby/eleanorrigby)
+     (name customs/eleanorrigby/eleanorrigby)
      (tracks
         ((bass (0 1))
          (guitar (2 3))
@@ -2777,7 +2777,7 @@
 
    } 126})
    (song
-     (name songs/customs/flying/flying)
+     (name customs/flying/flying)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -2840,7 +2840,7 @@
    (song_id 9990034)
    (context 109)
    (song
-     (name songs/customs/fornoone/fornoone)
+     (name customs/fornoone/fornoone)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -3033,7 +3033,7 @@
 
    } 0})
    (song
-     (name songs/customs/foryoublue/foryoublue)
+     (name customs/foryoublue/foryoublue)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -3114,7 +3114,7 @@
    (song_id 9991011)
    (context 0)
    (song
-     (name songs/customs/frommetoyou/frommetoyou)
+     (name customs/frommetoyou/frommetoyou)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4251,7 +4251,7 @@
 
    } 0})
    (song
-     (name songs/customs/glassonion/glassonion)
+     (name customs/glassonion/glassonion)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4310,7 +4310,7 @@
    (song_id 9991018)
    (context 93)
    (song
-     (name songs/customs/gniknus/gniknus)
+     (name customs/gniknus/gniknus)
      (tracks
         ((bass (0 1))
          (guitar (2 3))
@@ -4368,7 +4368,7 @@
    (song_id 9990037)
    (context 112)
    (song
-     (name songs/customs/gooddaysunshine/gooddaysunshine)
+     (name customs/gooddaysunshine/gooddaysunshine)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4421,7 +4421,7 @@
    (song_id 9990039)
    (context 114)
    (song
-     (name songs/customs/gottogetyou/gottogetyou)
+     (name customs/gottogetyou/gottogetyou)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4478,7 +4478,7 @@
    (song_id 9990002)
    (context 77)
    (song
-     (name songs/customs/help/help)
+     (name customs/help/help)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4531,7 +4531,7 @@
    (song_id 9990030)
    (context 105)
    (song
-     (name songs/customs/herethereeverywhere/herethereeverywhere)
+     (name customs/herethereeverywhere/herethereeverywhere)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4591,7 +4591,7 @@
    (song_id 9990022)
    (context 97)
    (song
-     (name songs/customs/holdmetight/holdmetight)
+     (name customs/holdmetight/holdmetight)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4668,7 +4668,7 @@
 
    } 0})
    (song
-     (name songs/customs/icallyourname/icallyourname)
+     (name customs/icallyourname/icallyourname)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4717,7 +4717,7 @@
    (song_id 9990024)
    (context 99)
    (song
-     (name songs/customs/ififell/ififell)
+     (name customs/ififell/ififell)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4770,7 +4770,7 @@
    (song_id 9990032)
    (context 107)
    (song
-     (name songs/customs/illcryinstead/illcryinstead)
+     (name customs/illcryinstead/illcryinstead)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4823,7 +4823,7 @@
    (song_id 9990031)
    (context 106)
    (song
-     (name songs/customs/imhappyjusttodance/imhappyjusttodance)
+     (name customs/imhappyjusttodance/imhappyjusttodance)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4878,7 +4878,7 @@
    (song_id 9990035)
    (context 110)
    (song
-     (name songs/customs/imonlysleeping/imonlysleeping)
+     (name customs/imonlysleeping/imonlysleeping)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -4935,7 +4935,7 @@
    (song_id 9990029)
    (context 104)
    (song
-     (name songs/customs/ishouldhaveknown/ishouldhaveknown)
+     (name customs/ishouldhaveknown/ishouldhaveknown)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5053,7 +5053,7 @@
 
    } 155})
    (song
-     (name songs/customs/itsonlylove/itsonlylove)
+     (name customs/itsonlylove/itsonlylove)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5114,7 +5114,7 @@
    (song_id 9990047)
    (context 122)
    (song
-     (name songs/customs/itwontbelong/itwontbelong)
+     (name customs/itwontbelong/itwontbelong)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5167,7 +5167,7 @@
    (song_id 9990041)
    (context 116)
    (song
-     (name songs/customs/iwanttotellyou/iwanttotellyou)
+     (name customs/iwanttotellyou/iwanttotellyou)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5404,7 +5404,7 @@
 
    } 0})
    (song
-     (name songs/customs/iwill/iwill)
+     (name customs/iwill/iwill)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5472,7 +5472,7 @@
    (song_id 9990026)
    (context 101)
    (song
-     (name songs/customs/julia/julia)
+     (name customs/julia/julia)
      (tracks
         ((guitar (0 1))
 		 (vocals (2 3))
@@ -5529,7 +5529,7 @@
    (song_id 9990012)
    (context 87)
    (song
-     (name songs/customs/kommgibmir/kommgibmir)
+     (name customs/kommgibmir/kommgibmir)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5585,7 +5585,7 @@
    (song_id 9990057)
    (context 132)
    (song
-     (name songs/customs/ladymadonna/ladymadonna)
+     (name customs/ladymadonna/ladymadonna)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5641,7 +5641,7 @@
    (song_id 9990048)
    (context 123)
    (song
-     (name songs/customs/littlechild/littlechild)
+     (name customs/littlechild/littlechild)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5751,7 +5751,7 @@
 
    } 0})
    (song
-     (name songs/customs/longtallsally/longtallsally)
+     (name customs/longtallsally/longtallsally)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5800,7 +5800,7 @@
    (song_id 9990005)
    (context 80)
    (song
-     (name songs/customs/lovemedo/lovemedo)
+     (name customs/lovemedo/lovemedo)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5853,7 +5853,7 @@
    (song_id 9990007)
    (context 82)
    (song
-     (name songs/customs/loveyouto/loveyouto)
+     (name customs/loveyouto/loveyouto)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -5906,7 +5906,7 @@
    (song_id 9990023)
    (context 98)
    (song
-     (name songs/customs/maggiemae/maggiemae)
+     (name customs/maggiemae/maggiemae)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6036,7 +6036,7 @@
 
    } 145})
    (song
-     (name songs/customs/magicalmysterytour/magicalmysterytour)
+     (name customs/magicalmysterytour/magicalmysterytour)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6124,7 +6124,7 @@
 
    } 0})
    (song
-     (name songs/customs/matchbox/matchbox)
+     (name customs/matchbox/matchbox)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6173,7 +6173,7 @@
    (song_id 9990003)
    (context 78)
    (song
-     (name songs/customs/misery/misery)
+     (name customs/misery/misery)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6226,7 +6226,7 @@
    (song_id 9990049)
    (context 124)
    (song
-     (name songs/customs/moneythatswhat/moneythatswhat)
+     (name customs/moneythatswhat/moneythatswhat)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6327,7 +6327,7 @@
 
    } 0})
    (song
-     (name songs/customs/mothernatureson/mothernatureson)
+     (name customs/mothernatureson/mothernatureson)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6388,7 +6388,7 @@
    (song_id 9990044)
    (context 119)
    (song
-     (name songs/customs/obladioblada/obladioblada)
+     (name customs/obladioblada/obladioblada)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6450,7 +6450,7 @@
          {hofner63_nopick.mat set specular_map {$world find bassspec.tex}}}}
    140})
    (song
-     (name songs/customs/pennylane/pennylane)
+     (name customs/pennylane/pennylane)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6513,7 +6513,7 @@
    (song_id 9990046)
    (context 121)
    (song
-     (name songs/customs/pleasemrpostman/pleasemrpostman)
+     (name customs/pleasemrpostman/pleasemrpostman)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6572,7 +6572,7 @@
    (song_id 9990006)
    (context 81)
    (song
-     (name songs/customs/pleasepleaseme/pleasepleaseme)
+     (name customs/pleasepleaseme/pleasepleaseme)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6625,7 +6625,7 @@
    (song_id 9990010)
    (context 85)
    (song
-     (name songs/customs/psiloveyou/psiloveyou)
+     (name customs/psiloveyou/psiloveyou)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6678,7 +6678,7 @@
    (song_id 9990015)
    (context 90)
    (song
-     (name songs/customs/rain/rain)
+     (name customs/rain/rain)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6734,7 +6734,7 @@
    (song_id 9990019)
    (context 94)
    (song
-     (name songs/customs/rolloverbeethoven/rolloverbeethoven)
+     (name customs/rolloverbeethoven/rolloverbeethoven)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6787,7 +6787,7 @@
    (song_id 9990009)
    (context 84)
    (song
-     (name songs/customs/shelovesyou/shelovesyou)
+     (name customs/shelovesyou/shelovesyou)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6839,7 +6839,7 @@
    (song_id 9990036)
    (context 111)
    (song
-     (name songs/customs/shesaidshesaid/shesaidshesaid)
+     (name customs/shesaidshesaid/shesaidshesaid)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6917,7 +6917,7 @@
 
    } 0})
    (song
-     (name songs/customs/shesawoman/shesawoman)
+     (name customs/shesawoman/shesawoman)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -6966,7 +6966,7 @@
    (song_id 9990021)
    (context 96)
    (song
-     (name songs/customs/sieliebtdich/sieliebtdich)
+     (name customs/sieliebtdich/sieliebtdich)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7047,7 +7047,7 @@
 
    } 0})
    (song
-     (name songs/customs/slowdown/slowdown)
+     (name customs/slowdown/slowdown)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7098,7 +7098,7 @@
    (song_id 9990067)
    (context 142)
    (song
-     (name songs/customs/strawberryfields/strawberryfields)
+     (name customs/strawberryfields/strawberryfields)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7164,7 +7164,7 @@
    (song_id 9990033)
    (context 108)
    (song
-     (name songs/customs/tellmewhy/tellmewhy)
+     (name customs/tellmewhy/tellmewhy)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7217,7 +7217,7 @@
    (song_id 9990093)
    (context 0)
    (song
-     (name songs/customs/thankyougirl/thankyougirl)
+     (name customs/thankyougirl/thankyougirl)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7304,7 +7304,7 @@
 
    } 135})
    (song
-     (name songs/customs/thefoolonthehill/thefoolonthehill)
+     (name customs/thefoolonthehill/thefoolonthehill)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7367,7 +7367,7 @@
    (song_id 9990043)
    (context 118)
    (song
-     (name songs/customs/theinnerlight/theinnerlight)
+     (name customs/theinnerlight/theinnerlight)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7424,7 +7424,7 @@
    (song_id 9990058)
    (context 133)
    (song
-     (name songs/customs/thenightbefore/thenightbefore)
+     (name customs/thenightbefore/thenightbefore)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7477,7 +7477,7 @@
    (song_id 9990020)
    (context 95)
    (song
-     (name songs/customs/thisboy/thisboy)
+     (name customs/thisboy/thisboy)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7528,7 +7528,7 @@
    (song_id 9990016)
    (context 91)
    (song
-     (name songs/customs/tilltherewasyou/tilltherewasyou)
+     (name customs/tilltherewasyou/tilltherewasyou)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7581,7 +7581,7 @@
    (song_id 9990027)
    (context 102)
    (song
-     (name songs/customs/tomorrownever/tomorrownever)
+     (name customs/tomorrownever/tomorrownever)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7710,7 +7710,7 @@
 
 } 0})
    (song
-     (name songs/customs/whilemyguitarlove/whilemyguitarlove)
+     (name customs/whilemyguitarlove/whilemyguitarlove)
      (tracks
         ((bass (0 1))
          (guitar (2 3))
@@ -7769,7 +7769,7 @@
    (song_id 9990008)
    (context 83)
    (song
-     (name songs/customs/wildhoneypie/wildhoneypie)
+     (name customs/wildhoneypie/wildhoneypie)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -7826,7 +7826,7 @@
    (song_id 9990053)
    (context 128)
    (song
-     (name songs/customs/workingclass/workingclass)
+     (name customs/workingclass/workingclass)
      (tracks
         ((guitar (0 1))
 		 (vocals (2 3))
@@ -7877,7 +7877,7 @@
    (song_id 9990001)
    (context 76)
    (song
-     (name songs/customs/yesterday/yesterday)
+     (name customs/yesterday/yesterday)
      (tracks
         ((bass (0 1))
          (guitar (2 3))
@@ -7929,7 +7929,7 @@
    (song_id 9990050)
    (context 125)
    (song
-     (name songs/customs/youreallygotahold/youreallygotahold)
+     (name customs/youreallygotahold/youreallygotahold)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -8041,7 +8041,7 @@
 
    } 143})
    (song
-     (name songs/customs/yourmothershould/yourmothershould)
+     (name customs/yourmothershould/yourmothershould)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -8175,7 +8175,7 @@
 
 } 0})
    (song
-     (name songs/customs/wecanworkitout/wecanworkitout)
+     (name customs/wecanworkitout/wecanworkitout)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -8598,7 +8598,7 @@
 
    } 0})
    (song
-     (name songs/customs/whatyouredoing/whatyouredoing)
+     (name customs/whatyouredoing/whatyouredoing)
      (tracks
         ((drum (0 1))
          (bass (2 3))
@@ -8655,7 +8655,7 @@
    (song_id 9990079)
    (context 0)
    (song
-     (name songs/customs/wordsoflove/wordsoflove)
+     (name customs/wordsoflove/wordsoflove)
      (tracks
         ((drum (0 1))
          (bass (2 3))
